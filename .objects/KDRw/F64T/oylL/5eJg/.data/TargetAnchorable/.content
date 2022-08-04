@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="MN8T9PvEKU20XD9dLxd1zw" DesignTimeRectangle="757, 259, 321, 56" ElementType="Button" FriendlyName="'‎NEW EMPLOYEE'" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' /&gt;&lt;ctrl name='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' role='tool bar' /&gt;&lt;ctrl name='‎NEW EMPLOYEE ID CREATION' role='split button' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' /&gt;&lt;ctrl name='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' role='tool bar' /&gt;&lt;ctrl name='‎NEW EMPLOYEE ID CREATION' role='split button' automationid='' check:text='‎NEW EMPLOYEE ID CREATION' /&gt;" Guid="1fed8dd1-193f-46fa-bfc2-ad3b96b19715" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='NEW EMPLOYEE ID CREATION' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="525, 259, 232, 56" ElementType="Button" FriendlyName="'‎EmployeeID Creation'" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' /&gt;&lt;ctrl name='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' role='tool bar' /&gt;&lt;ctrl name='‎EmployeeID Creation' role='split button' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' /&gt;&lt;ctrl name='Address: D:\Moringa_School\Week4\EmployeeID Creation\NEW EMPLOYE*' role='tool bar' /&gt;&lt;ctrl name='‎EmployeeID Creation' role='split button' automationid='' check:text='‎EmployeeID Creation' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1hVlmAjs8_U6DYbEhsmNTNQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0n9yKSLRQfkuC3nL7PMzypQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c72946a27d96f085b1cdd32a1cbb611c.png" xmlns="">003jv7Pqe5Ue4sPP5orrKJg</imageRef>
+</TargetAnchorable>

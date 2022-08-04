@@ -1,0 +1,14 @@
+﻿{
+  "Id": "r6kIBExUvk20I0t6WA0BzA",
+  "Reference": "-UrjAU96P0O6fsOtoAtlyw/r6kIBExUvk20I0t6WA0BzA",
+  "ParentRef": "-UrjAU96P0O6fsOtoAtlyw/GziC0ERaqE20q7fqL81yDQ",
+  "Name": "Save As... Ctrl+Shift+S",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-11T10:12:40.1853742Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-11T10:12:40.1853742Z"
+}

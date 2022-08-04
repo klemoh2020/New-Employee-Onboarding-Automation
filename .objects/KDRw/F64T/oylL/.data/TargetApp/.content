@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" Arguments="d:\moringa_school\week4\employeeid creation\new employee id creation" ContentHash="Ug6FVNQQ40262dtz6Sn0qA" FilePath="C:\Windows\explorer.exe" Selector="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='NEW EMPLOYEE ID CREATION'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0u3k_1FsQYUC1Md4gCaHrSw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2dc3516e9381385ec8d429ea463ceace.png" xmlns="">0CFDD5xW_ekqitRpFY7a7GQ</imageRef>
+</TargetApp>

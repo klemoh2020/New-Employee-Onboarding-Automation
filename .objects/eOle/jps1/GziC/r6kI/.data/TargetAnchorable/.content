@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="fgsAHg4UYU6rVBGr02NQ7Q" DesignTimeRectangle="3, 131, 350, 32" FriendlyName="'Save As... Ctrl+Shift+S'" FullSelectorArgument="&lt;ctrl name='File' role='popup menu' /&gt;&lt;ctrl automationid='4' /&gt;" FuzzySelectorArgument="&lt;ctrl name='File' role='popup menu' /&gt;&lt;ctrl automationid='4' role='menu item' check:text='Save As...&amp;#x9;Ctrl+Shift+S' /&gt;" Guid="df371b67-b4c3-4d1e-b6c5-877bf13f5a81" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0fkF1g1dpw06T_ov_R1WzBw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4dba03c1a7b29d8d4bce3cc3dc8d2897.png" xmlns="">08JI5YqqMKk2U5ymkYasctw</imageRef>
+</TargetAnchorable>
